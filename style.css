@@ -1,13 +1,17 @@
 * {
     font-family: 'Special Elite', cursive;
-    /* border: 1px solid red; */
 }
 
-/* .container {
-    display: grid;
-} */
+.container {
+    max-width: 100%;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
-.image {
+image {
     position: relative;
 }
 
@@ -26,4 +30,10 @@
     margin-left: 55rem;
     margin-top: -90px;
     z-index: 1;
+    width: 25%;
+}
+@media only screen and (max-width: 600px) {
+    .container {
+ 
+    }
 }
