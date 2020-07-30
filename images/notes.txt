@@ -1,0 +1,2 @@
+1. Recommended large image size 1500 wide. -https://flothemes.com/flothemes-image-sizes/
+2. Recommended file size for large image - no more than 1MB. -https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/

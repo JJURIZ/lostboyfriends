@@ -1,0 +1,29 @@
+* {
+    font-family: 'Special Elite', cursive;
+    /* border: 1px solid red; */
+}
+
+/* .container {
+    display: grid;
+} */
+
+.image {
+    position: relative;
+}
+
+.mainTextOne {
+    font-size: 5rem;
+    position: absolute;
+    margin-left: 5rem;
+    top: -45px;
+    width: 10%;
+    z-index: 1;
+}
+
+.mainTextTwo {
+    font-size: 5rem;
+    position: absolute;
+    margin-left: 55rem;
+    margin-top: -90px;
+    z-index: 1;
+}
